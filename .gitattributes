@@ -1,0 +1,6 @@
+*.ico binary
+*.min.css linguist-generated 
+
+*.tsx linguist-detectable
+*.html linguist-vendored
+public/*.html linguist-vendored
